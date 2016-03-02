@@ -1,6 +1,5 @@
-
 /* Loader */
 
-	html body:before, html body:after {
-		display: none !important;
-	}
+html body:before, html body:after {
+  display: none !important;
+}
