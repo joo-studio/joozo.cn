@@ -2343,3 +2343,4 @@ input[type="submit"].disabled, input[type="submit"]:disabled, input[type="reset"
     padding: 0;
   }
 }
+.mini-font { font-size: 0.9em;}
